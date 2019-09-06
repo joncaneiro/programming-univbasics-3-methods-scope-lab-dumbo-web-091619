@@ -14,7 +14,7 @@ def link
   puts phrase
 end
 
-Barrl = "Do A Barrel Roll!"
+Barrel = "Do A Barrel Roll!"
 
 def any_phrase(phrase)
   puts phrase
